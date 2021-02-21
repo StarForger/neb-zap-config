@@ -1,4 +1,4 @@
-package zap-config
+package zapconfig
 
 import (
 	"go.uber.org/zap"
